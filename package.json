@@ -1,0 +1,29 @@
+{
+  "name": "tetradecahedronal-over-9k",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "server.js",
+  "scripts": {
+    "start": "npm server.js",
+    "seed": "node seeds/seed.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionscion/tetradecahedronal-over-9k.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ionscion/tetradecahedronal-over-9k/issues"
+  },
+  "homepage": "https://github.com/ionscion/tetradecahedronal-over-9k#readme",
+  "dependencies": {
+    "bcrpyt": "^2.0.0",
+    "dotenv": "^16.0.3",
+    "express-handlebars": "^7.0.4",
+    "handlebars": "^4.7.7",
+    "mysql2": "^3.2.0",
+    "sequelize": "^6.30.0"
+  }
+}
